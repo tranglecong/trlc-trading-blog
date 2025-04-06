@@ -3,7 +3,7 @@ languageCode: en-us
 title: TRLC Blog
 theme: PaperMod
 pagination.pagerSize: 5
-copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
+copyright: "© [TrangLC](trangs.leecoong@gmail.com)"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -47,9 +47,8 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-  author: Theme PaperMod
-  # author: ["Me", "You"] # multiple authors
+  description: "TrangLC's Blog - A place to share my thoughts, lessons and practical experiences in learning, working and trading."
+  author: Lê Công Tráng
 
   defaultTheme: auto
   # disableThemeToggle: true
