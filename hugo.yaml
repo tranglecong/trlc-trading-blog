@@ -1,6 +1,6 @@
 baseURL: https://tranglc.netlify.app/
 languageCode: en-us
-title: TRLC Blog
+title: TRLC
 theme: PaperMod
 pagination.pagerSize: 5
 copyright: "© [TrangLC](trangs.leecoong@gmail.com)"
@@ -80,7 +80,7 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Lê Công Tráng's Blog"
+    Title: "Tráng Lê Blog"
     Content: >
       ✍️ Đây là nơi tôi chia sẻ những suy nghĩ, bài học và kinh nghiệm thực tế  
       trong hành trình học tập, làm việc, trading.
