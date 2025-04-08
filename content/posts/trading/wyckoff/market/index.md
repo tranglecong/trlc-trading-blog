@@ -138,13 +138,14 @@ Tùy theo hướng di chuyển của giá, có 3 loại xu hướng:
 ---
 
 📏 **Phân loại xu hướng theo thời gian**
+
+![alt text](trend-types.png)
+
 Xu hướng có thể chia theo độ dài thời gian thành 3 loại:
 
 - Dài hạn (long-term)
 - Trung hạn (medium-term)
 - Ngắn hạn (short-term)
-  
-![alt text](trend-types.png)
 
 ⚠️ Không có quy tắc cứng nhắc về thời gian cụ thể. Tuy nhiên:
 
@@ -216,9 +217,9 @@ Lưu ý: Một dấu hiệu yếu không đồng nghĩa với đảo chiều xu 
 
 ### 1. 🔺 TỐC ĐỘ (Speed)
 
-Tốc độ đề cập đến **góc nghiêng của giá** trên biểu đồ.
-
 ![alt text](speed.png)
+
+Tốc độ đề cập đến **góc nghiêng của giá** trên biểu đồ.
 
 - Nếu giá **di chuyển nhanh hơn trước** → thị trường **có sức mạnh**.
 - Nếu giá **di chuyển chậm hơn trước** → thị trường **đang yếu đi**.
@@ -227,9 +228,9 @@ Tốc độ đề cập đến **góc nghiêng của giá** trên biểu đồ.
 
 ### 2. 📏 ĐỘ DÀI SÓNG ĐẨY (Projection)
 
-Công cụ này dùng để **so sánh độ dài của các đợt sóng đẩy (impulse)** – nếu sóng mới dài hơn sóng trước → xu hướng đang mạnh lên; nếu ngắn hơn → xu hướng đang yếu đi.
-
 ![alt text](projection.png)
+
+Công cụ này dùng để **so sánh độ dài của các đợt sóng đẩy (impulse)** – nếu sóng mới dài hơn sóng trước → xu hướng đang mạnh lên; nếu ngắn hơn → xu hướng đang yếu đi.
 
 #### a. Khoảng cách sóng đẩy
 
@@ -245,9 +246,9 @@ Công cụ này dùng để **so sánh độ dài của các đợt sóng đẩy
 
 ### 3. 🔽 ĐỘ SÂU (Depth)
 
-Dùng để đánh giá **độ sâu của các sóng điều chỉnh (pullback)**.
-
 ![alt text](depth.png)
+
+Dùng để đánh giá **độ sâu của các sóng điều chỉnh (pullback)**.
 
 #### a. Khoảng cách hồi giá
 
@@ -289,9 +290,9 @@ Các đường vẽ trên biểu đồ giúp xác định:
 
 ## 📈 ĐƯỜNG XU HƯỚNG – TREND LINES
 
-Sau khi xác định xu hướng, bước tiếp theo là **vẽ đường xu hướng** để tận dụng chuyển động giá.
-
 ![alt text](TREND-LINES.png)
+
+Sau khi xác định xu hướng, bước tiếp theo là **vẽ đường xu hướng** để tận dụng chuyển động giá.
 
 - Trong xu hướng giảm → nối **2 đỉnh giảm dần** → gọi là **đường cung (supply line)**.
 - Trong xu hướng tăng → nối **2 đáy tăng dần** → gọi là **đường cầu (demand line)**.
@@ -308,12 +309,12 @@ Một cú phá vỡ **chưa chắc** là đảo chiều – cần xem xét **b�
 
 ## 📊 KÊNH GIÁ – CHANNELS
 
+![alt text](CHANNELS.png)
+
 Kênh giá tốt sẽ:
 
 - Có nhiều điểm chạm cả trên và dưới,
 - Bao trùm phần lớn hành động giá.
-
-![alt text](CHANNELS.png)
 
 ### ✅ Kênh tăng (upward channel)
 
@@ -342,9 +343,9 @@ Hiện tượng này có thể xảy ra **trên mọi khung thời gian**.
 
 ## 🔄 ĐƯỜNG NGƯỢC (INVERTED LINES)
 
-Trong giai đoạn đầu của xu hướng, khi chưa có đường xu hướng rõ ràng, ta có thể dùng cách vẽ ngược:
-
 ![alt text](INVERTED-LINES.png)
+
+Trong giai đoạn đầu của xu hướng, khi chưa có đường xu hướng rõ ràng, ta có thể dùng cách vẽ ngược:
 
 - Trong xu hướng tăng: vẽ **đường cung trước**, kéo song song xuống tạo **đường cầu**.
 - Trong xu hướng giảm: vẽ **đường cầu trước**, kéo song song lên tạo **đường cung**.
@@ -355,9 +356,9 @@ Phương pháp này giúp ta **ước lượng trước vùng giá có thể h�
 
 ## 🔀 ĐƯỜNG HỘI TỤ – CONVERGING LINES
 
-Đôi khi đường quá mua/quá bán gốc không còn hiệu quả vì **giá không chạm tới chúng**.
-
 ![alt text](CONVERGING-LINES.png)
+
+Đôi khi đường quá mua/quá bán gốc không còn hiệu quả vì **giá không chạm tới chúng**.
 
 Khi đó, có thể:
 
