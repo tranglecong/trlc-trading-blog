@@ -3,10 +3,8 @@ date : '2025-04-06'
 draft : false
 title : 'Nguyên tắc 1: Trading là một quy trình, không phải cảm tính'
 summary: 'Bạn không cần phải đúng mỗi lần, bạn chỉ cần đúng một cách có hệ thống.'
-slug : 'trading-la-mot-quy-trinh'
 categories : ['trading']
-aliases: [/posts/trading/trading-la-mot-quy-trinh]
-tags: ["trading", "kỷ luật giao dịch", "quy trình giao dịch", "phương pháp trading"]
+tags: ["trading", "principles"]
 author: ["Lê Công Tráng"]
 ---
 

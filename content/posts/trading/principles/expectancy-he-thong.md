@@ -5,8 +5,7 @@ title : 'Nguyên tắc 3: Expectancy – Kỳ vọng thực tế của hệ th�
 summary: 'Bạn không kiếm tiền vì đúng – bạn kiếm tiền vì hệ thống của bạn có xác suất lợi nhuận dương.'
 slug : 'expectancy-he-thong'
 categories : ['trading']
-aliases: [/posts/trading/expectancy-he-thong]
-tags: ["expectancy", "winrate vs rr", "kỳ vọng lợi nhuận", "xây dựng hệ thống giao dịch"]
+tags: ["trading", "principles"]
 author: ["Lê Công Tráng"]
 ---
 

@@ -3,11 +3,8 @@ date : '2025-04-06'
 draft : false
 title : '🎯 Giao dịch là cuộc chơi của người biết thua – Tư duy sống sót trong trading'
 summary : 'Tại sao 90% trader thất bại? Bởi vì họ không biết cách thua đúng. Bài viết này phân tích bản chất thật sự của trading và cách để vào nhóm 10% thắng dài hạn.'
-slug : 'giao-dich-la-cuoc-choi-cua-nguoi-biet-thua'
-tags : ['tư duy trading', 'expectancy', 'risk management', 'trader mindset']
 categories : ['trading']
-keywords : ['giao dịch tài chính', 'thua lỗ trong trading', 'expectancy là gì', 'tâm lý trader', 'tại sao trader thất bại', 'cách trade đúng']
-aliases: [/posts/trading/giao-dich-thuc-chat-la-tro-choi-cua-nguoi-biet-chap-nhan-thua]
+tags: ["trading", "principles"]
 author: ["Lê Công Tráng"]
 ---
 

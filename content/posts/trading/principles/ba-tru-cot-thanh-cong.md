@@ -5,8 +5,7 @@ title : 'Nguyên tắc 6: Ba trụ cột thành công – Tiền, Phương pháp
 summary: 'Một hệ thống tốt sẽ không cứu được bạn nếu bạn phá kỷ luật hoặc quản lý vốn kém'
 slug : 'ba-tru-cot-thanh-cong'
 categories : ['trading']
-aliases: [/posts/trading/ba-tru-cot-thanh-cong]
-tags: ["money management", "trading psychology", "phương pháp giao dịch", "3 trụ cột trading"]
+tags: ["trading", "principles"]
 author: ["Lê Công Tráng"]
 ---
 

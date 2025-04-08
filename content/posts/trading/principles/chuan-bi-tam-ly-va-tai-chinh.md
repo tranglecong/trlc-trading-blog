@@ -5,8 +5,7 @@ title : 'Nguyên tắc 2: Chuẩn bị tâm lý và tài chính – Sống sót 
 summary: 'Giao dịch thành công không bắt đầu từ việc đoán đúng, mà từ việc chuẩn bị kỹ càng cho điều tệ nhất.'
 slug : 'chuan-bi-tam-ly-va-tai-chinh'
 categories : ['trading']
-aliases: [/posts/trading/chuan-bi-tam-ly-va-tai-chinh]
-tags: ['tâm lý giao dịch', 'quản lý vốn', 'risk management', 'chuẩn bị trước trading']
+tags: ["trading", "principles"]
 author: ['Lê Công Tráng']
 ---
 

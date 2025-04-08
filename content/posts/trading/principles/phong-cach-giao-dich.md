@@ -3,10 +3,8 @@ date : '2025-04-06'
 draft : false
 title : 'Nguyên tắc 4: Chọn phong cách giao dịch phù hợp với bản thân'
 summary: 'Không có chiến lược tốt nhất – chỉ có chiến lược phù hợp nhất với chính bạn'
-slug : 'phong-cach-giao-dich'
 categories : ['trading']
-aliases: [/posts/trading/phong-cach-giao-dich]
-tags: ["phong cách giao dịch", "scalping", "swing trading", "day trading", "position trading"]
+tags: ["trading", "principles"]
 author: ["Lê Công Tráng"]
 ---
 

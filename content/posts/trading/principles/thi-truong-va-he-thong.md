@@ -3,10 +3,8 @@ date : '2025-04-06'
 draft : false
 title : 'Nguyên tắc 5: Thị trường không quan trọng – Hệ thống mới quyết định'
 summary: 'A market is a market is a market'
-slug : 'thi-truong-va-he-thong'
 categories : ['trading']
-aliases: [/posts/trading/thi-truong-va-he-thong]
-tags: ["thị trường", "tư duy hệ thống", "đa tài sản", "trading strategy"]
+tags: ["trading", "principles"]
 author: ["Lê Công Tráng"]
 ---
 
