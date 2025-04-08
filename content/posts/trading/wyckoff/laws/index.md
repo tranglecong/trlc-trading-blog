@@ -197,6 +197,8 @@ Wyckoff dùng một công cụ rất hay để:
 
 Công cụ đó là: **biểu đồ Point & Figure**.
 
+![alt text](Point-Figure.png)
+
 ---
 
 ### 🧮 Nguyên tắc
