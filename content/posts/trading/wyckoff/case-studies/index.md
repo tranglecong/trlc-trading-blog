@@ -35,10 +35,6 @@ Trong các phân tích này, tôi đã sử dụng **nền tảng TradingView**.
 
 ---
 
-Dưới đây là bản dịch **đầy đủ** ví dụ thực tế đầu tiên trong **Phần 8 – Case Studies** thuộc sách phương pháp Wyckoff, với đối tượng phân tích là **Chỉ số S&P500 ($ES)**, **giữ nguyên tất cả từ khóa chuyên môn** như Upthrust, Shakeout, SOS, LPS, Supply/Demand, v.v.
-
----
-
 ## **S&P500 INDEX ($ES)**
 
 ![alt text](image-1.png)
@@ -102,10 +98,6 @@ Sau sự kiện **Jump Across the Creek**, giá đã hình thành một **cấu 
 📌 Trên biểu đồ này, chúng ta còn thấy một yếu tố rất thú vị: **những nhà giao dịch lớn (big traders)** – những người đã **mua trong suốt quá trình phát triển cấu trúc này** – đã **tận dụng một sự kiện cơ bản (trong trường hợp này là tiến trình đàm phán BREXIT)** để tạo ra **một cú gap tăng rất lớn**, là **kết quả của toàn bộ nguyên nhân (cause) trước đó.
 
 ✅ Đây không phải là trùng hợp. Và bạn sẽ **thấy hiện tượng này xảy ra nhiều lần trong tương lai**.
-
----
-
-Dưới đây là **bản dịch đầy đủ** ví dụ thứ ba trong **Phần 8 – Case Studies** của sách Wyckoff, phân tích cặp tiền **EURO/DOLLAR CROSS ($6E)**. Tất cả **từ khóa chuyên môn** như UTAD, Sign of Weakness, LPSY, VPOC, Phase E, v.v. được giữ nguyên để đảm bảo tính chính xác học thuật.
 
 ---
 
