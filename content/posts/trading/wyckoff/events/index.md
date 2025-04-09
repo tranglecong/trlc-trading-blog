@@ -1,7 +1,7 @@
 ---
 date : '2025-04-06'
 draft : false
-title : 'EVENTS'
+title : 'WYCKOFF#5: EVENTS'
 summary: 'Trong phần này, chúng ta sẽ đi qua trình tự các event mà giá thường trải qua trong các cấu trúc tích lũy và phân phối. Dù có nhiều trader áp dụng khác nhau, theo quan điểm tác giả, nên tiếp cận các event này một cách linh hoạt, thực tiễn thay vì quá cứng nhắc.'
 categories : ['trading']
 tags: ["trading", "Wyckoff", "events"]

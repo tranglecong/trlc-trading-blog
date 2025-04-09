@@ -1,7 +1,7 @@
 ---
 date : '2025-04-06'
 draft : false
-title : 'CÁCH THỊ TRƯỜNG DI CHUYỂN'
+title : 'WYCKOFF#1: MARKET'
 summary: 'Thị trường không di chuyển một cách ngẫu nhiên – mọi chuyển động của giá đều là kết quả của sự tương tác giữa cung và cầu.'
 categories : ['trading']
 tags: ["trading", "Wyckoff", "market"]

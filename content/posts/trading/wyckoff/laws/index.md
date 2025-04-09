@@ -1,7 +1,7 @@
 ---
 date : '2025-04-06'
 draft : false
-title : 'BA QUY LUẬT CƠ BẢN TRONG PHƯƠNG PHÁP WYCKOFF'
+title : 'WYCKOFF#3: FUNDAMENTAL LAWS'
 summary: 'Phương pháp Wyckoff được xây dựng dựa trên 3 quy luật nền tảng giúp bạn đọc hiểu thị trường qua hành động giá và khối lượng. Đây không chỉ là lý thuyết – mà là bản chất vận động thực sự của thị trường tài chính.'
 categories : ['trading']
 tags: ["trading", "Wyckoff", "laws"]

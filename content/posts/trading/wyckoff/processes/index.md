@@ -1,7 +1,7 @@
 ---
 date : '2025-04-06'
 draft : false
-title : 'QUÁ TRÌNH TÍCH LŨY VÀ PHÂN PHỐI'
+title : 'WYCKOFF#4: ACCUMULATION & DISTRIBUTION'
 summary: 'Hãy tưởng tượng thị trường là một trò chơi ẩn danh giữa tay to và tay nhỏ. Tích lũy (Accumulation): Là lúc tay to âm thầm gom hàng ở vùng giá thấp. Phân phối (Distribution): Là lúc tay to âm thầm xả hàng ở vùng giá cao.'
 categories : ['trading']
 tags: ["trading", "Wyckoff", "processes"]
