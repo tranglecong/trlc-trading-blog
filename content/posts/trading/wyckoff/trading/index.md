@@ -267,10 +267,6 @@ Với sự xuất hiện của các **significant bar mới thuận chiều vớ
 - Khi xu hướng tăng bắt đầu, ta có thể thấy **nến đảo chiều giảm** báo hiệu kết thúc của **Automatic Rally**.
 - Và điều đó cũng đúng với tất cả các sự kiện khác trong biên độ giao dịch.
 
----
-
-Dưới đây là **phần tiếp theo** của bản dịch **nguyên bản đầy đủ chương 27 – Ra quyết định (Decision-Making)** từ sách phương pháp Wyckoff. Nội dung tiếp tục với các mục: **Position Management, Entry, Stop Loss, Trailing Stop, Take Profit, Liquidity Zones, Volume Profile Levels**, **giữ nguyên mọi từ khóa chuyên môn như SOSbar, SOWbar, LPSY, Creek, Ice, VWAP, VPOC, v.v.**
-
 ![alt text](image-8.png)
 
 ---
