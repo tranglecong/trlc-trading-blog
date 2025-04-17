@@ -8,19 +8,17 @@ tags: ["trading", "Wyckoff", "processes"]
 author: ["Lê Công Tráng"]
 ---
 
-# 📘 **TÍCH LŨY (ACCUMULATION)**
-
----
+## 📘 **TÍCH LŨY (ACCUMULATION)**
 
 ![alt text](ACCUMULATION.png)
 
-## 🎯 **Vùng tích lũy là gì?**
+### 🎯 **Vùng tích lũy là gì?**
 
 Vùng tích lũy là một giai đoạn giá **đi ngang (sideways)** sau khi thị trường **giảm giá trước đó**. Trong vùng này, các **nhà giao dịch lớn** (tay to) thực hiện các chiến lược **hấp thụ lượng cung còn lại**, nhằm mục đích mua vào càng nhiều càng tốt tại vùng giá thấp, để **bán lại ở mức giá cao hơn trong tương lai** và thu lợi từ chênh lệch giá.
 
 ---
 
-## 🔄 **Kiểm soát cổ phiếu**
+### 🔄 **Kiểm soát cổ phiếu**
 
 Trong đợt giảm giá trước đó, **cổ phiếu phần lớn nằm trong tay “tay nhỏ” (weak hands)** – những người ít thông tin, dễ bị ảnh hưởng tâm lý.  
 Để thị trường có thể đảo chiều, **tay to cần phải kiểm soát lượng hàng hóa (stock)**.
@@ -30,7 +28,7 @@ Trong đợt giảm giá trước đó, **cổ phiếu phần lớn nằm trong 
 
 ---
 
-## ⚖️ **Luật Nhân – Quả trong vùng tích lũy**
+### ⚖️ **Luật Nhân – Quả trong vùng tích lũy**
 
 Đây là nơi thể hiện rõ **quy luật Nhân – Quả (Cause and Effect)** của Wyckoff:
 
@@ -42,14 +40,14 @@ Tay to không thể mua ồ ạt một lần vì **chính họ sẽ làm giá t�
 
 ---
 
-## 🧠 **Chiêu trò thao túng (Handling maneuvers)**
+### 🧠 **Chiêu trò thao túng (Handling maneuvers)**
 
 Để tích lũy thuận lợi, tay to thường **tạo ra bối cảnh tiêu cực**:
 
 - Tin tức xấu, thị trường ảm đạm → nhiều người **bán ra sai thời điểm**.
 - Giá được **kéo xuống mạnh và bất ngờ** → gọi là **Shakeout** hay **Spring**.
 
-### 🎯 Mục tiêu của Spring
+#### 🎯 Mục tiêu của Spring
 
 1. **Kích hoạt Stop Loss** của người đang mua đúng.
 2. **Dụ người thiếu hiểu biết bán ra**, tưởng thị trường còn giảm.
@@ -59,7 +57,7 @@ Tay to không thể mua ồ ạt một lần vì **chính họ sẽ làm giá t�
 
 ---
 
-## 🔁 **Loại bỏ "tay yếu" (weak hands)**
+### 🔁 **Loại bỏ "tay yếu" (weak hands)**
 
 “Tay yếu” là những người:
 
@@ -70,7 +68,7 @@ Tay to không thể mua ồ ạt một lần vì **chính họ sẽ làm giá t�
 
 ---
 
-## 💧 **Thanh khoản và đối tác khớp lệnh (Counterparty, Liquidity)**
+### 💧 **Thanh khoản và đối tác khớp lệnh (Counterparty, Liquidity)**
 
 - Khi trader nhỏ bị dính stop loss hoặc bán ra → họ đang tạo ra **lệnh bán thị trường (market sell)**.
 - Tay to cần những lệnh bán này để **khớp với lệnh mua của họ** → tức là **có đối tác khớp lệnh**.
@@ -79,7 +77,7 @@ Tay to không thể mua ồ ạt một lần vì **chính họ sẽ làm giá t�
 
 ---
 
-## 🛣 **Chờ xác nhận “đường ít kháng cự nhất”**
+### 🛣 **Chờ xác nhận “đường ít kháng cự nhất”**
 
 Tay to sẽ không đẩy giá lên ngay. Họ cần kiểm tra xem:
 
@@ -90,7 +88,7 @@ Tay to sẽ không đẩy giá lên ngay. Họ cần kiểm tra xem:
 
 ---
 
-## 📌 **Đặc điểm chung của vùng tích lũy**
+### 📌 **Đặc điểm chung của vùng tích lũy**
 
 1. **Khối lượng và biến động giảm dần** theo thời gian.
 2. **Giá test lên vùng đỉnh mà không có volume** → không còn người bán.
@@ -100,7 +98,7 @@ Tay to sẽ không đẩy giá lên ngay. Họ cần kiểm tra xem:
 
 ---
 
-## 🚀 **Khi xu hướng tăng bắt đầu**
+### 🚀 **Khi xu hướng tăng bắt đầu**
 
 Khi lượng hàng trên thị trường **đã được hấp thụ hết**, tay to **đã kiểm soát giá trị**.
 
@@ -110,12 +108,13 @@ Chỉ cần một chút cầu xuất hiện → giá sẽ **bật lên mạnh m�
 
 ---
 
-# 📘 **TÁI TÍCH LŨY (REACCUMULATION)**
+## 📘 **TÁI TÍCH LŨY (REACCUMULATION)**
 
 ---
+
 ![alt text](REACCUMULATION.png)
 
-## 🔁 **Quá trình tái tích lũy là gì?**
+### 🔁 **Quá trình tái tích lũy là gì?**
 
 Quá trình **tái tích lũy** về bản chất **giống hệt với tích lũy ban đầu**.  
 Điểm khác biệt duy nhất là **cách cấu trúc bắt đầu**:
@@ -125,11 +124,11 @@ Quá trình **tái tích lũy** về bản chất **giống hệt với tích l�
 
 ---
 
-## 📦 **Hấp thụ cổ phiếu trong tái tích lũy**
+### 📦 **Hấp thụ cổ phiếu trong tái tích lũy**
 
 Tái tích lũy diễn ra khi một xu hướng tăng đã diễn ra trước đó, nhưng **cần được củng cố lại**.
 
-### 🧠 Điều gì xảy ra sau một đợt tăng?
+#### 🧠 Điều gì xảy ra sau một đợt tăng?
 
 - Lúc đầu, cổ phiếu nằm trong tay các **nhà đầu tư mạnh (tay to)**.
 - Khi giá tăng → nhiều người mua vào → cổ phiếu **dần rơi vào tay tay nhỏ**.
@@ -139,7 +138,7 @@ Tái tích lũy diễn ra khi một xu hướng tăng đã diễn ra trước đ
 
 ---
 
-## ⏳ **Thời gian tái tích lũy kéo dài bao lâu?**
+### ⏳ **Thời gian tái tích lũy kéo dài bao lâu?**
 
 Rất quan trọng!
 
@@ -152,7 +151,7 @@ Mục tiêu của tái tích lũy là:
 
 ---
 
-## ❗ **Dễ nhầm lẫn: Tái tích lũy hay Phân phối?**
+### ❗ **Dễ nhầm lẫn: Tái tích lũy hay Phân phối?**
 
 Một trong những sai lầm nghiêm trọng nhất với trader Wyckoff là:
 
@@ -167,27 +166,27 @@ Vì sao?
 
 ---
 
-## ✅ Lời khuyên quan trọng
+### ✅ Lời khuyên quan trọng
 
 Hãy **hiểu rõ đặc điểm của cấu trúc tích lũy** (volume giảm dần, test không có cung, Spring...)  
 → từ đó so sánh với vùng bạn đang phân tích để **tránh vào lệnh sai phía**.
 
 ---
 
-# 📘 **PHÂN PHỐI (DISTRIBUTION)**
+## 📘 **PHÂN PHỐI (DISTRIBUTION)**
 
 ---
 
 ![alt text](DISTRIBUTION.png)
 
-## 🔻 **Vùng phân phối là gì?**
+### 🔻 **Vùng phân phối là gì?**
 
 Vùng phân phối là một giai đoạn **giá đi ngang**, diễn ra **sau một xu hướng tăng**, nơi các **chuyên gia giàu kinh nghiệm (tay to)** âm thầm **bán ra cổ phiếu** để chuẩn bị cho một xu hướng giảm trong tương lai.  
 Mục tiêu của họ là **xả hàng ở giá cao** cho các trader nhỏ lẻ, rồi **mua lại ở giá thấp**, thu lợi từ chênh lệch.
 
 ---
 
-## ⚖️ **Luật Nhân – Quả trong phân phối**
+### ⚖️ **Luật Nhân – Quả trong phân phối**
 
 Quy luật Nhân – Quả (Cause and Effect) được áp dụng tương tự như vùng tích lũy:
 
@@ -201,14 +200,14 @@ Quy luật Nhân – Quả (Cause and Effect) được áp dụng tương tự n
 
 ---
 
-## 🧠 **Chiêu trò thao túng (Handling maneuvers)**
+### 🧠 **Chiêu trò thao túng (Handling maneuvers)**
 
 Trong quá trình phân phối, tay to thường **tạo ra cảm giác thị trường cực mạnh**:
 
 - Tin tức tốt, sự hưng phấn, kỳ vọng tăng mạnh...
 - Mục tiêu: **Thu hút càng nhiều người mua càng tốt** → để **bán dần mà không làm giá giảm**.
 
-### 🎯 **Chiêu kinh điển: Upthrust (UT)**
+#### 🎯 **Chiêu kinh điển: Upthrust (UT)**
 
 Upthrust là một cú **phá vỡ giả lên phía trên** vùng kháng cự → khiến trader tưởng giá sẽ tiếp tục tăng, nên lao vào mua.
 
@@ -220,7 +219,7 @@ Upthrust là một cú **phá vỡ giả lên phía trên** vùng kháng cự �
 
 ---
 
-## 😵 **Loại bỏ "tay yếu"**
+### 😵 **Loại bỏ "tay yếu"**
 
 “Tay yếu” là những người:
 
@@ -234,7 +233,7 @@ Tay to sẽ:
 
 ---
 
-## 💧 **Thanh khoản & đối tác khớp lệnh**
+### 💧 **Thanh khoản & đối tác khớp lệnh**
 
 Tay to **cần lệnh mua để bán ra** → và họ **tạo điều kiện để có thanh khoản**, bằng:
 
@@ -246,7 +245,7 @@ Tay to **cần lệnh mua để bán ra** → và họ **tạo điều kiện đ
 
 ---
 
-## 🛣 **Đường ít kháng cự nhất**
+### 🛣 **Đường ít kháng cự nhất**
 
 Khi vùng phân phối gần hoàn tất, tay to sẽ **kiểm tra xem còn ai muốn mua không**.
 
@@ -259,7 +258,7 @@ Họ làm điều này bằng cách:
 
 ---
 
-## 📌 **Đặc điểm nhận biết vùng phân phối**
+### 📌 **Đặc điểm nhận biết vùng phân phối**
 
 1. **Volume cao và biến động lớn** trong suốt quá trình đi ngang.
 2. Giá test lại đáy nhưng **volume yếu** → không còn người mua.
@@ -269,7 +268,7 @@ Họ làm điều này bằng cách:
 
 ---
 
-## ⛷ **Khi xu hướng giảm bắt đầu**
+### ⛷ **Khi xu hướng giảm bắt đầu**
 
 Khi lực mua đã cạn → tay to kiểm soát thị trường → chỉ cần **một chút cung mới vào** là **giá rơi rất nhanh**.
 
@@ -277,13 +276,13 @@ Khi lực mua đã cạn → tay to kiểm soát thị trường → chỉ cần
 
 ---
 
-# 📘 **TÁI PHÂN PHỐI (REDISTRIBUTION)**
+## 📘 **TÁI PHÂN PHỐI (REDISTRIBUTION)**
 
 ---
 
 ![alt text](REDISTRIBUTION.png)
 
-## 📉 **Tái phân phối là gì?**
+### 📉 **Tái phân phối là gì?**
 
 Tái phân phối là một **giai đoạn đi ngang của giá** nằm **giữa hai xu hướng giảm**.  
 Nói cách khác, thị trường đang trong xu hướng giảm → dừng lại để “nghỉ” → rồi **tiếp tục giảm tiếp**.
@@ -294,7 +293,7 @@ Trong một thị trường giá xuống lớn, có thể xuất hiện **nhiề
 
 ---
 
-## ⚖️ **Tái phân phối hay tích lũy?**
+### ⚖️ **Tái phân phối hay tích lũy?**
 
 Một vấn đề rất lớn đối với trader Wyckoff là:
 
@@ -311,7 +310,7 @@ Do đó, cần **phân tích thật kỹ hành động giá và khối lượng*
 
 ---
 
-## 📦 **Kiểm soát cổ phiếu trong tái phân phối**
+### 📦 **Kiểm soát cổ phiếu trong tái phân phối**
 
 Trong vùng tái phân phối:
 
@@ -326,7 +325,7 @@ Sau khi hoàn tất việc phân phối lại, họ sẽ để thị trường *
 
 ---
 
-## 🔄 **Thay đổi quyền kiểm soát thị trường**
+### 🔄 **Thay đổi quyền kiểm soát thị trường**
 
 Tương tự như xu hướng tăng, trong xu hướng giảm cũng có sự thay đổi “tay”:
 
@@ -337,14 +336,14 @@ Tương tự như xu hướng tăng, trong xu hướng giảm cũng có sự tha
 
 ---
 
-## ⏳ **Thời gian tái phân phối kéo dài bao lâu?**
+### ⏳ **Thời gian tái phân phối kéo dài bao lâu?**
 
 - Nếu phần lớn cổ phiếu **vẫn nằm trong tay tay to** → quá trình tái phân phối **diễn ra nhanh**.
 - Nếu phần lớn **đã vào tay nhỏ lẻ** → cần thêm thời gian để tay to hấp thụ lại.
 
 ---
 
-## 🎯 **Mục tiêu của tái phân phối**
+### 🎯 **Mục tiêu của tái phân phối**
 
 Cấu trúc này được hình thành để:
 
@@ -353,11 +352,9 @@ Cấu trúc này được hình thành để:
 
 ---
 
-## ✅ Kết luận nhanh
+### ✅ Kết luận nhanh
 
 | Vùng           | Diễn ra khi nào?                  | Mục tiêu thực sự                 |
 |----------------|-----------------------------------|----------------------------------|
 | **Tái phân phối** | Sau nhịp giảm, thị trường đi ngang | Tiếp tục xu hướng giảm ban đầu   |
 | **Tích lũy**      | Sau nhịp giảm, thị trường đi ngang | Chuẩn bị cho xu hướng tăng mới   |
-
----
