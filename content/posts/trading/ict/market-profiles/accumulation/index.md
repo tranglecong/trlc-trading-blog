@@ -4,7 +4,7 @@ draft : false
 title : 'ICT#28: Accumulation'
 summary: '"Accumulation" không chỉ là vùng đi ngang. Trong bối cảnh ICT, nó là **giai đoạn Smart Money tích trữ vị thế**, thường xảy ra vào thứ Hai – thứ Ba, với mục đích tạo điều kiện cho một đợt mở rộng (expansion) sau đó.'
 categories : ['trading']
-tags: ["trading", "ict", "market-profiles"]
+tags: ["trading", "ict", "market-profiles", "weakly-profile"]
 author: ["Lê Công Tráng"]
 ---
 
