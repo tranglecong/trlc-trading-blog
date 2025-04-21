@@ -4,7 +4,7 @@ draft : false
 title : 'ICT#26: Monday Protocol'
 summary: 'Monday Protocol không đơn giản là tìm kiếm cơ hội giao dịch vào thứ Hai, mà là sử dụng hành vi giá trong ngày này như một **kim chỉ nam để dự đoán cấu trúc cả tuần**. Việc hiểu rõ cấu trúc range của thứ Hai sẽ giúp xác suất xác định được direction, entry và target trong những ngày còn lại tăng đáng kể.'
 categories : ['trading']
-tags: ["trading", "ict", "market-profiles"]
+tags: ["trading", "ict", "market-profiles", "weakly-profile"]
 author: ["Lê Công Tráng"]
 ---
 

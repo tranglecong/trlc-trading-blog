@@ -4,7 +4,7 @@ draft : false
 title : 'ICT#25: Consolidation Reversal'
 summary: '**Consolidation Reversal** trong ICT Weekly Profile – đây là một dạng đặc biệt khi thị trường tích lũy trong nhiều ngày trước khi thực hiện một cú breakout mạnh mẽ theo hướng ngược lại.'
 categories : ['trading']
-tags: ["trading", "ict", "market-profiles"]
+tags: ["trading", "ict", "market-profiles", "weakly-profile"]
 author: ["Lê Công Tráng"]
 ---
 

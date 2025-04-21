@@ -4,7 +4,7 @@ draft : false
 title : 'ICT#27: Following Expansion'
 summary: 'Trong ICT, **một đợt mở rộng mạnh** (Classic Expansion, Midweek Reversal...) sẽ **để lại dấu vết thanh khoản bị lấy đi**. Tuần sau đó, smart money **không vội vàng tạo expansion mới**'
 categories : ['trading']
-tags: ["trading", "ict", "market-profiles"]
+tags: ["trading", "ict", "market-profiles", "weakly-profile"]
 author: ["Lê Công Tráng"]
 ---
 

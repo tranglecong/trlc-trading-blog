@@ -4,7 +4,7 @@ draft : false
 title : 'ICT#24: Midweek Reversal'
 summary: 'Midweek Reversal - một trong những mẫu ICT Weekly Profile có độ “lừa tình” cao nhất, khiến rất nhiều trader retail mắc bẫy.'
 categories : ['trading']
-tags: ["trading", "ict", "market-profiles"]
+tags: ["trading", "ict", "market-profiles", "weakly-profile"]
 author: ["Lê Công Tráng"]
 ---
  

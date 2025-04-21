@@ -4,7 +4,7 @@ draft : false
 title : 'ICT#31: TGIF Setup'
 summary: 'TGIF Setup là **cơ hội giao dịch đảo chiều hoặc chạy theo xu hướng ngắn trong ngày Thứ Sáu**, thường xuất hiện **sau khi mục tiêu trong tuần đã đạt**, và thị trường bắt đầu phản ứng.'
 categories : ['trading']
-tags: ["trading", "ict", "market-profiles"]
+tags: ["trading", "ict", "market-profiles", "weakly-profile"]
 author: ["Lê Công Tráng"]
 ---
 

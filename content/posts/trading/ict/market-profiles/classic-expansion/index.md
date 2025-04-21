@@ -4,7 +4,7 @@ draft : false
 title : 'ICT#23: Classic Expansion'
 summary: 'Thị trường giống như một con sư tử. Trước khi săn mồi, nó cần dụ con mồi ra chỗ trống. Classic Expansion là lúc nó vồ mồi – sau khi đã dụ xong bằng Monday và thứ Ba.'
 categories : ['trading']
-tags: ["trading", "ict", "market-profiles"]
+tags: ["trading", "ict", "market-profiles", "weakly-profile"]
 author: ["Lê Công Tráng"]
 ---
 
