@@ -1,34 +1,13 @@
 ---
 date : '2025-04-06'
 draft : false
-title : 'WYCKOFF#2: STRUCTURES'
-summary: 'Phương pháp Wyckoff đã vượt qua thử thách của thời gian. Với hơn 100 năm phát triển và ứng dụng liên tục, phương pháp này đã chứng minh được giá trị thực tế trong việc giao dịch mọi loại công cụ tài chính.'
+title : 'WYCKOFF#2.1: STRUCTURES - ACCUMULATION'
+summary: 'Tích lũy là quá trình các nhà giao dịch lớn hấp thụ hết lượng cổ phiếu có sẵn trên thị trường → Chuyển giao từ "tay yếu" sang "tay mạnh"'
 categories : ['trading']
-tags: ["trading", "Wyckoff", "structure"]
+tags: ["trading", "Wyckoff", "structure", "accumulation"]
 author: ["Lê Công Tráng"]
 ---
 
-> _**🧠 Thị trường luôn thay đổi – không bao giờ giống nhau**_
-
-Bạn có từng vẽ biểu đồ, thấy mô hình này giống hôm qua, nhưng hôm sau thì khác hẳn?
-
-👉 Đó là vì **thị trường không lặp lại chính xác**, bởi nó là một hệ thống sống, liên tục thay đổi theo hành vi của người mua và người bán.
-
-Do đó, **không thể dùng mô hình cố định để áp dụng mọi lúc**. Nhưng tin vui là: có **một số nguyên tắc cơ bản luôn tồn tại**, giúp bạn nhận ra điều gì đang xảy ra.
-
----
-
-> _**🧭 Wyckoff giúp bạn đọc hành vi thị trường**_
-
-Phương pháp Wyckoff không đòi hỏi bạn phải dự đoán tương lai.  
-Thay vào đó, nó giúp bạn **đọc hiểu hiện tại** bằng cách nhìn vào **giá và khối lượng giao dịch**, giống như bạn đọc "dấu chân" của cá mập trên biểu đồ.
-
-Để làm được điều đó, Wyckoff chia thị trường thành:
-
-- **Các sự kiện (events)** – như các cột mốc quan trọng.
-- **Các giai đoạn (phases)** – như từng màn trong một vở kịch.
-
----
 
 ## 🟢 **CẤU TRÚC TÍCH LŨY**
 
@@ -2229,79 +2208,5 @@ Nói cách khác:
 
 > 🧠 **Phase E không còn là lúc tìm điểm vào – mà là lúc kiểm soát tâm lý khi giá đã “bay”.**  
 > Trader giỏi Phase E **không phải người mua giỏi – mà là người gồng lời và thoát lệnh thông minh.**
-
----
-
-## 🔴 **CẤU TRÚC PHÂN PHỐI**
-
-![alt text](DISTRIBUTION-1.png)
-
-Ngược lại với tích lũy, đây là lúc tay to **bán dần** khi người khác đang hưng phấn.
-
----
-
-### 🧱 **Phase A – Dừng xu hướng tăng**
-
-**Các sự kiện:**
-
-- **PSY – Preliminary Supply**: Lực bán xuất hiện lần đầu.
-- **BC – Buying Climax**: Mọi người mua mạnh nhất → tay to bán ra nhiều nhất.
-- **AR – Automatic Reaction**: Giá giảm nhanh → tạo đáy của vùng phân phối.
-- **ST – Secondary Test**: Giá quay lại đỉnh để test lực mua → volume thấp → dấu hiệu xấu.
-
----
-
-### 🧱 **Phase B – Lừa đảo và xả hàng**
-
-**Các sự kiện:**
-
-- **UT – Upthrust**: Giá phá đỉnh tạm thời rồi rớt xuống.
-- **mSOW – Minor Sign of Weakness**: Giá phá đáy nhẹ → quay về range.
-
-Tay to lừa bạn mua thêm → rồi **họ âm thầm xả hàng**.
-
----
-
-### 🧱 **Phase C – Cú bẫy UTAD**
-
-- **UTAD – Upthrust After Distribution**: Phá đỉnh mạnh → mọi người đổ vào mua → rồi… sập!
-- Là cú đánh cuối để dụ người vào mua ở giá cao nhất.
-
----
-
-### 🧱 **Phase D – Xu hướng giảm bắt đầu**
-
-**Các sự kiện:**
-
-- **MSOW – Major Sign of Weakness**: Cú giảm mạnh xuyên đáy.
-- **LPSY – Last Point of Supply**: Giá hồi yếu, tạo đỉnh thấp hơn → cơ hội bán ra.
-
----
-
-### 🧱 **Phase E – Xu hướng giảm rõ ràng**
-
-Giá tạo **đỉnh thấp – đáy thấp** → xu hướng giảm xác lập.
-
----
-
-## 🔴 **CẤU TRÚC PHÂN PHỐI #2 – KHÔNG CÓ UTAD**
-
-![alt text](DISTRIBUTION-2.png)
-
-- Giá không phá được đỉnh → vì lực bán đã áp đảo từ sớm.
-- Không có cú "bẫy cuối" → khó nhận ra cú sập.
-- Chỉ còn một điểm vào: **bán tại LPSY khi giá hồi nhẹ rồi rớt tiếp**.
-
----
-
-## ✅ Tổng kết siêu ngắn gọn
-
-| Tích lũy (Accumulation)           | Phân phối (Distribution)         |
-|----------------------------------|----------------------------------|
-| Tay to mua dần                   | Tay to bán dần                   |
-| Giá dao động quanh đáy           | Giá dao động quanh đỉnh          |
-| Có thể có cú Spring              | Có thể có cú UTAD                |
-| Mua tại LPS hoặc BUEC            | Bán tại LPSY hoặc sau SOW        |
-| Đỉnh – đáy tăng dần              | Đỉnh – đáy giảm dần              |
 
 ---
