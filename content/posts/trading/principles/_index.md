@@ -1,5 +1,4 @@
 ---
-title: principles
-summary: Các bài viết về Principles.
-description: Các bài viết về Principles.
+title: Principles
+description: "Những nguyên tắc cốt lõi trong giao dịch: từ tư duy, quản lý vốn, đến kỷ luật cá nhân — nền móng tạo nên một hệ thống giao dịch bền vững.."
 ---

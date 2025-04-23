@@ -4,7 +4,7 @@ draft : false
 title : 'WYCKOFF#2.2: STRUCTURES - DISTRIBUTION'
 summary: 'Distribution là quá trình phân phối lại hàng hóa từ tay “smart money” (người kiểm soát dòng tiền lớn) sang tay công chúng, sau một giai đoạn Markup (tăng giá). Mục tiêu là xả hàng dần dần mà không làm giá sập quá sớm, ngụy trang bằng các cú trap tăng giá khiến FOMO tiếp tục mua vào.'
 categories : ['trading']
-tags: ["trading", "Wyckoff", "structure"]
+tags: ["trading", "Wyckoff", "structure", "distribution"]
 author: ["Lê Công Tráng"]
 ---
 

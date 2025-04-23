@@ -1,5 +1,4 @@
 ---
-title: trading
-summary: Các bài viết về chiến lược giao dịch, tư duy, quản lý rủi ro.
-description: Các bài viết về chiến lược giao dịch, tư duy, quản lý rủi ro.
+title: "Trading"
+description: "📈 Một không gian tổng hợp những gì mình đang học hỏi và áp dụng trong giao dịch. Không có công thức cố định, chỉ có quá trình khám phá."
 ---
